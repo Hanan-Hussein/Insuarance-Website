@@ -98,3 +98,50 @@ nav{
     border-color: white;
     border-radius: 1.5em;
   }
+  .overallcards{
+    display: flex;
+    align-content: space-around;
+    /* background-color: #FFFF; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* object-position: center; */
+    z-index: 3;
+    position: absolute;
+    justify-content: center;
+    /* top: 94%; */
+
+  }
+  .card2{
+    display: flex;
+    box-shadow: 2px 2px 4px gray;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    background-color: white;
+    text-align: center; 
+    margin: 0px 10px;
+  }
+  .card1{
+    display: flex;
+    box-shadow: 2px 2px 4px gray;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: 20%;
+    background-color: white;
+    text-align: center; 
+    margin: 0px 12px;
+
+  }
+  .icon{
+      width: 15%;
+      margin-left: 15px;
+
+  }
+  /* .overall_background{
+      background-color: #fbfcff;
+      z-index: 1;
+      height: 130vh;
+    } */
