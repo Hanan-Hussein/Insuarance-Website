@@ -4,7 +4,10 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Poppins';
-    overflow: visible;
+    /* overflow: visible; */
+}
+.navbar{
+    color: white;
 }
  .items{
     /* display: flex;
@@ -21,24 +24,31 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 10px;
+    padding-top: 15px;
     flex-wrap: wrap;
 }
 .brand_name{
     display: inline-block;
+    font-size: x-large;
 }
 .nav_item a {
     display: inline-block;
     padding: 10px 15px;
     text-decoration: none;
+    color: white;
     
 
   }
   .container{
       background-image: url('./images/cover.png');
       background-repeat: no-repeat;
-      background-repeat: no-repeat;
       background-size: cover;
-      height: 635px;
-   
+      height: 100vh;
+  }
+  .memberbtn{
+    background-color: #23A6F0;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    color: white;
   }
