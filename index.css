@@ -212,3 +212,24 @@ nav{
       .companies img {
          width: 5%;
      }
+     .newsletter{
+         background: linear-gradient(
+             to right,rgba(10,68,136),rgba(207,77,136));
+             width: 70%;
+    }
+    .newslettercover{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+    .subscribe{
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        padding: 15px 10px;
+    }
+ .letterbtn{
+border: none;
+margin: 0px;
+ }
