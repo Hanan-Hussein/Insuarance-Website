@@ -13,7 +13,6 @@
 
 <img width="1440" alt="Screenshot 2022-01-30 at 22 03 20" src="https://user-images.githubusercontent.com/36597096/151717991-ddf6f103-f851-41c7-89a5-84f3cb99ec63.png">
 
-<img width="1440" alt="Screenshot 2022-01-30 at 22 07 44" src="https://user-images.githubusercontent.com/36597096/151717994-45ff1fa2-cfaa-4687-a97d-a2853f4e10ee.png">
 
 
 <img width="1440" alt="Screenshot 2022-01-30 at 22 00 06" src="https://user-images.githubusercontent.com/36597096/151718069-5fb3614f-baf0-43ae-9c0b-1cfaca0eb2ab.png">
