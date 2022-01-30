@@ -213,9 +213,8 @@ nav{
          width: 5%;
      }
      .newsletter{
-         background: linear-gradient(
-             to right,rgba(10,68,136),rgba(207,77,136));
-             width: 70%;
+         background: linear-gradient(to right,rgba(10,68,136),rgba(207,77,136));
+         width: 70%;
     }
     .newslettercover{
         display: flex;
@@ -230,6 +229,52 @@ nav{
         padding: 15px 10px;
     }
  .letterbtn{
-border: none;
-margin: 0px;
+  border: none;
+  margin: 0px;
  }
+ #pricing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 160px    ;
+ }
+ .price{
+    background-color: #fff;
+    border-radius: 5px;
+    color: white;
+    border:1px solid #23A6F0;
+    padding: 30px;
+    /* margin: 10px; */
+ }
+ .price p{
+    color: hsl(232, 13%, 33%);
+    margin: 15px 0;
+    width: 250px;
+ }
+ .standard{
+    background-color: #252B42;
+    border:1px solid #23A6F0;
+    transform: scale(1.14);
+ }
+ .standard p{
+    color: #fff;
+
+ }
+ 
+ .figures {
+     color: #23A6F0;
+     font-weight: bold;
+     font-size: 1.2em;
+}
+.storage{
+     text-align: left;
+}
+.pricebtn button{
+    background-color: #23A6F0;
+    padding: 10px;
+    font-weight: bold;
+    width: 80%;
+    border: none;
+    border-radius: 2px;
+    color: white;
+  }
