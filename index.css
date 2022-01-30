@@ -293,5 +293,80 @@ nav{
   }
   td,th{
       width: 25vh;
+      height: 5vh;
       vertical-align:middle;
   }
+
+  #world_color{
+      background-color: #252b42;
+      background-size: cover;
+      height: auto;
+
+  }
+  /* .world_image{
+      position: relative;
+      left: 20%;
+
+  } */
+  .world_image {
+      width: 30%;
+  }
+  .world_text p{
+      color: white;
+      text-align: left;
+  }
+  .world_flex{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 46px;
+  }
+  input[type=text], select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 90%;
+    background-color: #23A6F0;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+   label{
+      display: block;
+      /* width: 20%; */
+    } 
+    .appointment{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 200px;
+        margin-bottom: 250px;
+     
+    }
+    .appointment_img{
+        height: 80vh ;
+    }
+    .form_appointment{
+        background-color: white;
+        height: 80vh;
+    }
+    .appointment_text {
+        font-weight: bold;
+        padding-bottom: 20px;
+        font-size: x-large;
+    }
+    label{
+        margin-left: 15px;
+        text-align: left;
+    }
