@@ -473,8 +473,8 @@ nav{
             flex-wrap: wrap;
             flex-direction: column;
             margin-bottom: 15px;
-            position: absolute;
-            top: 56%;
+            /* position: absolute;
+            top: 56%; */
           }
           .card1{
             display: flex;
