@@ -1,8 +1,10 @@
 # H - Insurance Website
 ##### By Hanan Hussein Ibrahim
 ### A website for an Insurance Company
-<img width="1440" alt="Screenshot 2022-01-30 at 21 59 09" src="https://user-images.githubusercontent.com/36597096/151717923-53dfc0ad-4dbb-4e3b-a0c1-863aacbbcc4a.png">
-<img width="1440" alt="Screenshot 2022-01-30 at 22 07 44" src="https://user-images.githubusercontent.com/36597096/151717932-5bef93ff-0596-4c1d-a0b5-5b623e002567.png">
+<img width="1440" alt="Screenshot 2022-01-31 at 10 20 48" src="https://user-images.githubusercontent.com/36597096/151768581-651e3d19-fe74-4cbd-9049-63ac623cab7c.png">
+
+<img width="1440" alt="Screenshot 2022-01-31 at 10 21 03" src="https://user-images.githubusercontent.com/36597096/151768589-c120beaa-1735-4dda-9dc5-89e588843586.png">
+
 
 <img width="1440" alt="Screenshot 2022-01-30 at 21 59 32" src="https://user-images.githubusercontent.com/36597096/151717949-e64dfd30-1704-440a-a73b-6cbc99a343d3.png">
 
