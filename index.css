@@ -62,7 +62,6 @@ nav{
       transform: translate(-50%, -50%);
       display: flex;
       flex-direction: column;
-      /* justify-content: space-around; */
   }
   #overlay{
     background-color: rgba(0, 0, 0, 0.5);
@@ -141,11 +140,7 @@ nav{
   .icon2{
     width: 55%;
 }
-  /* .overall_background{
-      background-color: #fbfcff;
-      z-index: 1;
-      height: 130vh;
-    } */
+
     .second_page{
         display: flex;
         justify-content:center;
